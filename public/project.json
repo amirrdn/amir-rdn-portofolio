@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "title": "Proyek 1",
+      "description": "Deskripsi lengkap tentang proyek 1. Proyek ini menggunakan teknologi terkini dan dirancang untuk memberikan pengalaman pengguna yang optimal.",
+      "link": "https://link-ke-proyek1.com",
+      "images": [
+        "https://images.cakeresume.com/post-images/bf6986f0-b917-4c45-a064-b0fa70019f1b.png",
+        "https://images.cakeresume.com/post-images/28907077-8ef9-4ab4-a652-5e01fac5f64d.png",
+        "https://images.cakeresume.com/post-images/9a5acd6f-f9c7-4c87-802f-a57b072c095e.png"
+      ],
+      "technologies": ["React", "Tailwind CSS", "Node.js"],
+      "repo": "https://github.com/user/proyek1"
+    },
+    {
+      "id": "2",
+      "title": "Proyek 2",
+      "description": "Deskripsi lengkap tentang proyek 2. Proyek ini dirancang untuk memberikan solusi yang inovatif.",
+      "link": "https://link-ke-proyek2.com",
+      "images": [
+        "https://images.cakeresume.com/post-images/99854697-6b2c-484f-95df-4c6c34bc77dc.png",
+        "https://images.cakeresume.com/post-images/6d310b98-7c2f-4f99-a590-2926c0a3958c.png",
+        "https://images.cakeresume.com/post-images/b6eb8b34-400c-470c-8ca5-ccaca0805885.png"
+      ],
+      "technologies": ["Vue.js", "Tailwind CSS", "Express"],
+      "repo": "https://github.com/user/proyek2"
+    },
+    {
+      "id": "3",
+      "title": "Warehouse Web Based",
+      "description": "The application has an Easy POS system for a faster billing system. A very responsive web template has been used, the application contains complete source code and is easy to modify it as per your needs. The application can be ready to install on the local computer or on an online server with an easy installation process.",
+      "link": "https://link-ke-proyek3.com",
+      "images": [
+        "https://images.cakeresume.com/post-images/47c4621d-ae2b-4878-bc15-651ddbab85ec.png",
+        "https://images.cakeresume.com/post-images/69832bb1-1aab-4434-b139-60538efc9a3f.png",
+        "https://images.cakeresume.com/post-images/3a6d36c7-633e-43a8-b3a3-a2f3f5556140.png",
+        "https://images.cakeresume.com/post-images/504bb3ef-5a36-454c-8b7e-3e046f795d06.png",
+        "https://images.cakeresume.com/post-images/1113caf7-ca32-44f1-b97e-0a66d48009d4.png",
+        "https://images.cakeresume.com/post-images/edead885-f307-471c-b9e8-b40fbec65f5f.png"
+      ],
+      "technologies": ["Angular", "Bootstrap", "Node.js"],
+      "repo": "https://github.com/user/proyek3"
+    }
+  ]
+  

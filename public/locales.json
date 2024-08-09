@@ -1,0 +1,69 @@
+{
+    "locales": [
+      {
+        "lang": "en",
+        "header": {
+          "title": "Software Developer.",
+          "description": "I've been a web developer since 2015. I've made several web-based projects such as CRM, warehouse, Procurement, non-profit accounting."
+        },
+        "welcome": {
+          "title": "Welcome to My Portfolio",
+          "description": "Discover my best works and projects I've worked on.",
+          "viewProjects": "View Projects"
+        },
+        "skills": {
+          "title": "My Skills"
+        },
+        "recentProjects": {
+          "title": "Latest Projects",
+          "projects": [
+            {
+              "name": "Project 1",
+              "description": "A brief description of this project."
+            },
+            {
+              "name": "Project 2",
+              "description": "A brief description of this project."
+            },
+            {
+              "name": "Project 3",
+              "description": "A brief description of this project."
+            }
+          ]
+        }
+      },
+      {
+        "lang": "id",
+        "header": {
+          "title": "Pengembang Perangkat Lunak.",
+          "description": "Saya telah menjadi pengembang web sejak 2015. Saya telah membuat beberapa proyek berbasis web seperti CRM, pergudangan, Pengadaan, akuntansi nirlaba."
+        },
+        "welcome": {
+          "title": "Selamat Datang di Portofolio Saya",
+          "description": "Temukan karya terbaik dan proyek yang telah saya kerjakan.",
+          "viewProjects": "Lihat Proyek"
+        },
+        "skills": {
+          "title": "Keterampilan Saya"
+        },
+        "recentProjects": {
+          "title": "Proyek Terbaru",
+          "projects": [
+            {
+              "name": "Proyek 1",
+              "description": "Deskripsi singkat tentang proyek ini."
+            },
+            {
+              "name": "Proyek 2",
+              "description": "Deskripsi singkat tentang proyek ini."
+            },
+            {
+              "name": "Proyek 3",
+              "description": "Deskripsi singkat tentang proyek ini."
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
